@@ -1,7 +1,6 @@
-# Hejka
-
 ![HejkaPresentation](https://user-images.githubusercontent.com/81502611/114260565-01f7cc00-99d6-11eb-83ca-5edeb59cf202.png)
 
+# Hejka
 
 ## About the App
 
